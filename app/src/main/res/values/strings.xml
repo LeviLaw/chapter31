@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">chapter3-1</string>
+    <string name="project_function">生命周期及实例状态信息保存演示</string>
+</resources>
